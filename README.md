@@ -18,7 +18,6 @@ QuickQuill Studio is a all-in-one text editor built in Java + Spring Boot. The p
   - Spring Boot (Java 17)
   - Angular
   - Node.js
-  - Vite
   - Docker
   - nginx
 
